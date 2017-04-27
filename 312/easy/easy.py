@@ -1,5 +1,6 @@
 # https://www.reddit.com/r/dailyprogrammer/comments/67dxts/20170424_challenge_312_easy_l33tspeak_translator/
 # Since 2 characters map to the 1 in l33tspeak I ended up removing one of them.
+# Would have probably been easier with a regex replacement instead
 
 import sys, getopt
 
